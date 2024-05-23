@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="footer ">
       <section className="mt-5">
         <h1 className="text-center mt-5">
-          Legendary <br />
+          Was Legendary <br />
           IT Team{" "}
         </h1>
         <address className="text-center">
