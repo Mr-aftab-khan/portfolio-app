@@ -4,6 +4,8 @@ import './App.css'
 import Footer from "./Components/footer";
 import NavBar from "./Components/navBar";
 import Herosection from "./Components/herosection";
+import Checkagain from "./Components/checkagain";
+
 function App() {
   return (
     <div className="App">
@@ -11,6 +13,7 @@ function App() {
     <HomePage/>
     <Footer/>
     <Herosection/>
+    <Checkagain/>
     </div>
   );
 }
