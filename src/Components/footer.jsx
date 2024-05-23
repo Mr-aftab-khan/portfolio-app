@@ -12,7 +12,7 @@ const Footer = () => {
           River Street, Blue Building, 1st. floor 5690-970 <br />
           New York City
         </address>   
-        {/* gjhjhgkjj */}
+
         <div className="contact d-flex justify-content-center flex-wrap">
         <p>|123-4567-890|  </p> <p> |legendary@team.com|</p> <p> |www.LegendaryIT.com|</p>
         </div>
