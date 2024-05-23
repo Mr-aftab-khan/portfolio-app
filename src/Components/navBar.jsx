@@ -11,8 +11,11 @@ const NavBar = () => {
           <div className="nav-overlay-content">
             <a onClick={()=>document.getElementById('introduction')}>Introduction</a>
             <a id="ourWork">Our Work</a>
-            <a id="portfolio">Portfolio</a>
-            <a id="services">Services</a>
+            <Link>Hi</Link>
+            {/* <a id="portfolio">Portfolio</a> */}
+            {/* <a id="services">Working</a> */}
+            {/* <a id="services">Working</a> */}
+            <a id="services">Working</a>
             <a id="contact">Contact</a>
           </div>
         </nav>
